@@ -1,0 +1,170 @@
+-- import: fifthtry.github.io/caffeine-resume as caffeine
+-- import: fifthtry.github.io/texty-ps as ps
+-- import: fifthtry.github.io/texty-ps/assets 
+-- import: fifthtry.github.io/resume as r
+
+-- r.resume john-doe: 
+
+-- john-doe.basic: Priyanka yadav
+label: Web Developer
+email: meenu@gmail.com
+phone: +91 9798744002
+url: https://johndoe.com
+maritalStatus: Single
+dateOfBirth: 03-02-1998
+summary: I’m a full stack web developer who can build apps from the ground up. I've worked mostly at startups so I am use to wearing many hats. I am a very product focussed developer who priotizes user feedback first and foremost. I'm generally very flexible when investigating new roles.
+image: $assets.files.static.profile.jpg
+
+-- john-doe.location: 2712 Broadway St
+postalCode: CA 94115
+city: San Francisco
+countryCode: US
+region: California
+
+-- john-doe.profile: Twitter
+username: johndoe
+url: https://twitter.com/john
+
+-- john-doe.profile: Linked-in
+username: johndoe
+url: https://twitter.com/john
+
+-- john-doe.work: Tokenized
+position: Senior Javascript Developer
+url: /
+startDate: May, 2020
+endDate: Present
+location: Bangalore
+summary: Tokenized is a Bitcoin wallet for issuing, managing and trading digital tokens. I built out the front end which was packaged as an electron app. It was a difficult frontend to build because we store the users keys locally and used them to sign transactions and contracts.
+highlights: Awareded as Employee of the Year - 2013, and won a holiday trip to London, UK.
+
+
+-- john-doe.volunteer: Animal Refuge
+position: Supervisor
+url: /
+startDate: Oct 2012 
+endDate: Dec 2014
+summary: Nulla sit amet velit ac turpis interdum consectetur eget vitae ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Etiam pharetra diam et tortor bibendum laoreet.
+highlights: Maecenas at dictum sem, Pellentesque vitae sed dolor, Ut ac ex ac ipsum commodo.
+
+
+-- john-doe.education: University of Oklahoma
+url: /
+area: Information Technology
+studyType: Bachelor
+startDate: May-2004
+endDate: Jan-2007
+score: 8.0
+
+-- john-doe.award: Website of the day
+date: Aug-2014
+awarder: Awwward
+summary: Received for my website domain.com and mauris sit amet mattis pharetra, purus ipsum commodo ex, a molestie metus augue sit amet justo.
+
+
+
+-- john-doe.certificate: CCNA Routing and Switching
+date: Jun-2017
+issuer: Cisco
+url: /
+
+-- john-doe.publication: Chasing the Higgs Boson
+publisher: The New York Times
+releaseDate: Mar 2013
+url: /
+summary: Integer luctus erat at sapien pharetra, nec elementum diam euismod. Maecenas condimentum eu nisi ut aliquet. Donec vitae ultricies risus. Donec commodo justo at odio cursus, nec mattis tellus dignissim.
+
+-- john-doe.skill: Frontend
+
+--- keywords: HTML / JSX
+level: expert
+
+--- keywords: SCSS / CSS 
+level: competent
+
+--- keywords: Javascript / React
+level: ovice
+
+-- john-doe.skill: Backend
+
+--- keywords: Node
+level: beginner
+
+--- keywords: Ruby
+level: advance
+
+--- keywords: Python
+level: competent
+
+--- keywords: Postgres
+level: expert
+
+--- keywords: Redis
+level: competent
+
+--- keywords: Serverless
+level: expert
+
+-- john-doe.skill: Devops
+
+--- keywords: AWS
+level: competent
+
+--- keywords: Cloud
+level: expert
+
+--- keywords: Heroku
+level: competent
+
+--- keywords: Caching
+level: expert
+
+-- john-doe.language: English
+fluency: expert
+
+-- john-doe.language: Hindi
+fluency: beginner
+
+-- john-doe.language: German
+fluency: advance
+
+-- john-doe.interest: Nature
+keyword: Gardening
+
+-- john-doe.interest: Travel
+keyword: Reading
+
+-- john-doe.interest: Food
+keyword: Noodles
+
+-- john-doe.reference: Ryan Kirkman
+reference: John is an extremely talented engineer with a very broad range of skills and experience. From being a thought leader in the front-end community via backbonetutorials.com and cdnjs.com, to designing and implementing the API for cdnjs.com, working with John has been fantastic learning experience. John is truly a full stack develop, and his work output is incredible. If there is any opportunity to work with John, I take it. He is the definition of an A player.
+phone-no: 12345-6789
+email-id: Ryan@Ryan.com
+position: Senior Software Engineer
+company: Nerdwallet
+
+-- john-doe.project: Deno.com
+description: Deno is a runtime for JavaScript and TypeScript that is based on the V8 JavaScript engine and the Rust programming language. It was created by John Doe, original creator of Node.js, and is focused on productivity. It was announced by Doe in 2018 during his talk "10 Things I Regret About Node.js".
+highlights: Vitae tempus quam pellentesque, Scelerisque felis imperdiet, Dui accumsan sit amet nulla
+keyword: Node JS, JavaScript, TypeScript, Rust
+startDate: May 2018
+endDate: Present
+url: /
+role: Creator
+entity: Deno
+type: Mobile Application
+
+
+
+
+
+
+-- ps.page:
+show-menu: true
+
+
+
+
+-- caffeine.show-resume:
+resume: $john-doe

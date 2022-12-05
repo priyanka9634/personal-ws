@@ -1,0 +1,17 @@
+-- import: fifthtry.github.io/texty-ps as ps
+-- import: priyanka9634.github.io/personal-ws/assets
+
+-- ps.copyright:  Copyright 2012-2022 FifthTry (priyanka yaadv).
+
+-- ps.footer:  
+
+Copyright 2012-2022 FifthTry (priyanka yaadv).
+
+Copyright 2012-2022 FifthTry (priyanka yaadv).
+
+
+Copyright 2012-2022 FifthTry (priyanka yaadv).
+
+-- ps.site-logo:
+dark: $assets.files.static.logo.svg.dark
+light: $assets.files.static.logo.svg.light
