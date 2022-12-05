@@ -63,36 +63,17 @@ nav-title: Contact Information
 # Talks: /talks/
 
 - All talks:
-  - N01 15 2022 - You are enough: /posts/post-1/
-  - N01 04 2022 - Coffee shop in winter:/posts/post-2/
-  - N07 24 2022 - Clean communities, healthy citizens.: /posts/post-3/
-  - N07 07 2022 - Good Life, Good Vibes: /posts/post-1/
-  - N06 30 2022 - The Power of Positive Thinking: /posts/post-2/
-  - N06 30 2022 - It Ends With Us: /posts/post-3/
-  - N06 30 2022 - The Magic Of Thinking Big: /posts/post-1/
-  - N06 30 2022 - Attitude Is Everything: /posts/post-2/
-  - N06 30 2022 - Stamped from the Beginning: /posts/post-3/
-  - N06 30 2022 - The Road Back to You: /posts/post-1/
-  - N06 30 2022 - When Breath Becomes Air: /posts/post-2/
-  - N06 30 2022 - The Diary of a Young Girl: /posts/post-3/
-  - N06 30 2022 - I Know Why the Caged Birds Sing: /posts/post-1/
-  - N06 30 2022 - More Than a Body: /posts/post-2/
-  - N06 30 2022 - Brave, Not Perfect: /posts/post-3/
+  - you publications with url: /blog/
 
 
-# About: /about/
+# About: /blog/
 nav-title: About Me
 
 - About Me:
-  - N01 15 2022 - You are enough: /posts/post-1/
-  - N01 04 2022 - Coffee shop in winter:/posts/post-2/
-  - N07 24 2022 - Clean communities, healthy citizens.: /posts/post-3/
-  - N07 07 2022 - Good Life, Good Vibes: /posts/post-1/
-  - N06 30 2022 - The Power of Positive Thinking: /posts/post-2/
-  - N06 30 2022 - It Ends With Us: /posts/post-3/
+  - about yourself with url: /blog/
 
 
-# Essay: /posts/post-1/
-nav-title: Essays
+
+# Essay: /blog/
 
 
