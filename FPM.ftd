@@ -1,0 +1,79 @@
+-- import: fpm
+
+-- fpm.package: priyanka9634.github.io/personal-ws
+download-base-url: https://raw.githubusercontent.com/priyanka9634/personal-ws/main
+
+-- fpm.dependency: fifthtry.github.io/doc-site as ds
+-- fpm.dependency: fifthtry.github.io/texty-ps as ps
+-- fpm.dependency: fifthtry.github.io/resume
+-- fpm.dependency: fifthtry.github.io/caffeine-resume 
+
+-- fpm.auto-import: ds
+-- fpm.auto-import: ps
+-- fpm.auto-import: priyanka9634.github.io/personal-ws/FPM/config
+-- fpm.auto-import: priyanka9634.github.io/personal-ws/assets
+
+
+-- fpm.sitemap:
+
+# Priyanka: /
+nav-title: Priyanka Yadav
+
+## Archmage of Infrastructure: /
+
+- Skills: 
+  - your skills without url:
+
+- Highlighted Projects: 
+  - your projects with url:
+
+- Quick Links: 
+  - your quick contact link with url : https://github.com/
+
+
+
+
+# blog: /blog/
+nav-title: Blog post
+
+- all post:
+  - all your post with your: /blog-post/
+
+# contact: /contact/
+nav-title: Contact Information
+
+- email :
+  - your email:
+
+- Social Media:
+  - your social media with link:
+  - your social media with link:
+  - your social media with link:
+  - your social media with link:
+  - your social media with link:
+
+
+- Other information:
+
+- Discord:
+
+# Resume: /resume/
+
+
+# Talks: /blog/
+
+- All talks:
+  - you publications with url: /blog/
+
+
+# About: /blog/
+nav-title: About Me
+
+- About Me:
+  - about yourself with url: /blog/
+
+
+
+# Essay: /blog/
+
+
