@@ -16,7 +16,7 @@ download-base-url: https://raw.githubusercontent.com/priyanka9634/personal-ws/ma
 
 -- fpm.sitemap:
 
-# Priyanka: /
+# Priyanka: /index/
 nav-title: Priyanka Yadav
 
 ## Archmage of Infrastructure: /
