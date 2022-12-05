@@ -11,7 +11,7 @@ download-base-url: https://raw.githubusercontent.com/priyanka9634/personal-ws/ma
 -- fpm.auto-import: ds
 -- fpm.auto-import: ps
 -- fpm.auto-import: priyanka9634.github.io/personal-ws/FPM/config
-
+-- fpm.auto-import: priyanka9634.github.io/personal-ws/assets
 
 
 -- fpm.sitemap:
